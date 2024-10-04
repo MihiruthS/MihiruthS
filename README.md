@@ -8,8 +8,8 @@ I'm a second-year Electronic Engineering undergraduate from University of Moratu
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [mihiruth@gmail.com](mailto:mihiruth@gmail.com)
-* 🧠  I'm learning Product Design and Machine Learning
-* 🤝  I'm open to collaborating on Robotics, Electronic Product Design and Internet of Things
+* 🧠  I'm learning NLP and Computer Vision
+* 🤝  I'm open to collaborating on Robotics, Machine Learning and Internet of Things
 
 ### Skills
 
